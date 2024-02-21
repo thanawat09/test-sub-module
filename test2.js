@@ -1,1 +1,1 @@
-const b = 'test edit 2';
+const b = 'tag 1.0.0';
